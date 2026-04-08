@@ -177,7 +177,7 @@ Home Screen → Search Restaurants → View Menu → Add to Cart → Checkout �
 * Understood the importance of visual hierarchy in mobile apps
 * Improved skills in
 
-##Live Prototype Link
+Live Prototype Link
 
 (https://www.figma.com/proto/ujqldMzxZhXkek7SBNC9OK/Feastify?node-id=1-2&p=f&viewport=443%2C80%2C0.32&t=yvqysYMfbhcKd13b-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2&page-id=0%3A1)
 
