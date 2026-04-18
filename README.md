@@ -21,73 +21,108 @@ This project was developed as part of my **UI/UX Internship at Technglobal Pvt. 
 
 ---
 
-## ❗ Problem Statement
 
-Many food delivery apps face usability issues such as:
+## Problem Statement
 
-* Cluttered layouts
-* Difficult restaurant discovery
-* Complicated checkout process
-* Poor visual hierarchy
-* Lack of clear order tracking
+Many food delivery apps overwhelm users with cluttered layouts, too many options on one screen, and complicated ordering steps.
 
-These issues lead to poor user experience and increased cart abandonment.
+Common issues include:
 
----
+* Difficulty finding nearby restaurants quickly
+* Poor category organization
+* Long and confusing checkout process
+* Lack of clear order tracking updates
+* Inconsistent visual hierarchy
 
-## 💡 Solution
-
-Feastify was designed using a **user-centered UI/UX approach** to solve these problems.
-
-### ✅ Key Features
-
-* Clean and intuitive home screen
-* Smart search and filtering system
-* Well-structured restaurant pages
-* Simplified cart and checkout flow
-* Real-time order tracking
-* Consistent typography and spacing
-* Smooth and easy navigation
+These problems can lead to frustration, cart abandonment, and a poor user experience.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Solution
 
-* **Figma** – UI Design & Prototyping
+To improve the food ordering experience, I designed Feastify with a user-centered UI/UX approach.
+
+### Key Improvements:
+
+* Designed a clean and intuitive home screen with featured restaurants, offers, and categories
+* Added smart search and filters for faster restaurant discovery
+* Created clear restaurant detail pages with menu sections and ratings
+* Simplified cart and checkout flow for quick order placement
+* Added live order tracking for better delivery visibility
+* Improved typography, spacing, and color consistency for better readability
+* Built a smooth navigation system for effortless movement between screens
+
+This design helps users order food quickly, reduces friction, and creates a more enjoyable mobile experience.
+
+---
+
+## Technical Details
+
+### Technologies / Components Used
+
+### Design Tool
+
+* Figma
+
+### Purpose
+
+* User research
 * Wireframing
-* User Research
-* UX Testing
+* High-fidelity UI design
+* Interactive prototyping
+* UX testing and improvements
 
 ---
 
-## 🔄 Design Process
+## Implementation
 
-1. **Research & Analysis**
-   Studied existing food delivery apps and user behavior.
+### Design Process
 
-2. **Problem Identification**
-   Identified UX issues like clutter and slow checkout.
+The Feastify app was designed completely in Figma as part of a UI/UX project.
 
-3. **Wireframing**
-   Created low-fidelity layouts for app structure.
+### Process Followed:
 
-4. **UI Design**
-   Designed high-fidelity screens with modern UI.
+**1. Research & Analysis**
+Studied existing food delivery apps to understand user behavior, expectations, and pain points.
 
-5. **Prototype**
-   Built an interactive prototype in Figma.
+**2. Problem Identification**
+Identified issues such as cluttered layouts, difficult menu browsing, and slow checkout experience.
 
-6. **Testing & Refinement**
-   Improved design based on usability principles.
+**3. Wireframing**
+Created low-fidelity wireframes to define user flow and screen structure.
+
+**4. UI Design**
+Designed high-fidelity screens with modern layouts, appealing visuals, and consistent components.
+
+**5. Prototype Creation**
+Built an interactive prototype to simulate complete food ordering flow.
+
+**6. Final Review**
+Refined the app screens based on UX principles to ensure usability and accessibility.
 
 ---
 
-## 📲 Key Screens
+## Project Documentation
+
+The documentation covers the complete design process, including:
+
+* User research and competitor analysis
+* UX pain point identification
+* Low-fidelity wireframes
+* High-fidelity UI screens
+* Interactive prototype for ordering flow
+* Final app screens and usability improvements
+
+The project was documented with proper design rationale and screen explanations to highlight the user experience improvements.
+
+---
+
+## Key Screens Designed
 
 * Splash Screen
 * Login / Signup
 * Home Screen
-* Search & Filters
+* Search & Filter
 * Restaurant Listing
 * Menu Details
 * Cart Page
@@ -97,49 +132,52 @@ Feastify was designed using a **user-centered UI/UX approach** to solve these pr
 
 ---
 
-## 👥 Target Users
+## User Persona
 
-* Students
-* Working professionals
-* Families
+### Target Users
 
-### 🎯 User Needs
+* Students looking for affordable and quick meals
+* Working professionals needing fast delivery
+* Families ordering convenient food options
 
-* Easy navigation
+### User Needs
+
+* Easy restaurant discovery
 * Quick checkout
-* Fast food discovery
-* Real-time updates
+* Real-time order updates
+* Simple navigation
 
 ---
 
-## 🔁 User Flow
+## User Flow
 
-Home → Search → View Menu → Add to Cart → Checkout → Payment → Order Tracking
+Home Screen → Search Restaurants → View Menu → Add to Cart → Checkout → Payment → Order Tracking
 
 ---
 
-## 🎨 Design System
+## Design System
 
 ### Colors
 
-* Primary: Orange
-* Secondary: White / Light Gray
+* Primary: Orange (for food and energy)
+* Secondary: White / Light Gray (clean look)
+
 
 ### Components
 
 * Buttons
 * Cards
-* Navigation Bar
-* Search Filters
+* Navigation bar
+* Search filters
 
 ---
 
-## 📚 Key Learnings
+## Key Learnings
 
-* Improved user flow design
-* Better understanding of UX principles
-* Enhanced visual hierarchy skills
-* Hands-on experience in Figma prototyping
+* Learned how to improve user flow for faster ordering
+* Understood the importance of visual hierarchy in mobile apps
+* Improved skills in
+
 
 ---
 
